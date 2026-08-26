@@ -1,4 +1,4 @@
-%cd /content/camera-health-watchdog
+
 
 from pathlib import Path
 import cv2

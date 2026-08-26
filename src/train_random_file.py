@@ -1,4 +1,4 @@
-%%writefile /content/camera-health-watchdog/src/train_random_file.py
+
 
 import argparse
 import json
